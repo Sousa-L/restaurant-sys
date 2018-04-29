@@ -1,0 +1,13 @@
+<cashier>
+	<options>Opções</options>
+	<open_cashier>Abrir Caixa</open_cashier>
+	<close_cashier>Fechar Caixa</close_cashier>
+	<view_old>Ver Caixas Anteriores</view_old>
+	<cashier_status>Status do Caixa</cashier_status>
+	<daily_sales>Vendas do dia</daily_sales>
+	<order_list>Lista de Pedidos</order_list>
+	<order_id>Id do Pedido</order_id>
+	<order_value>Valor do Pedido</order_value>
+	<table>Mesa</table>
+	<status>Status</status>
+</cashier>

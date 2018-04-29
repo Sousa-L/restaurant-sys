@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login>
+  <username>Usuario:</username>
+  <password>Senha:</password>
+  <log_in>Login</log_in>
+  <forgot_password>Esqueci minha senha</forgot_password>
+</login>

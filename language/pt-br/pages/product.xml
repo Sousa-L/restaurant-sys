@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+  <product_list>Lista de Produtos</product_list>
+  <name>Nome</name>
+  <category>Categoria</category>
+  <value>Valor</value>
+  <edit>Editar</edit>
+  <details>Detalhes</details>
+  <add_order>Adicionar ao Pedido</add_order>
+  <product_name>Nome do Produto:</product_name>
+  <category_wdd>Categoria:</category_wdd>
+  <price>Preço:</price>
+  <profit>Lucro:</profit>
+  <description>Descrição:</description>
+  <stock>Estoque:</stock>
+  <add_product>Novo Produto</add_product>
+  <save>Salvar</save>
+  <cancel>Cancelar</cancel>
+  <edit_product>Editar Produto</edit_product>
+  <new_product>Novo Produto</new_product>
+  <buy_price>Valor de Compra</buy_price>
+  <options>Opções</options>
+  <bar_code>Código de Barras:</bar_code>
+  <provider>Fornecedor: </provider>
+</product>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <sql_username>root</sql_username>
+  <sql_servername>localhost</sql_servername>
+  <sql_password>qwe123</sql_password>
+  <sql_db>petiscaria</sql_db>
+  <establishment_name></establishment_name>
+  <establishment_description></establishment_description>
+  <language>pt-br</language>
+  <coin>R$ </coin>
+</config>

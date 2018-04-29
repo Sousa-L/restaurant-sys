@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+  <name>Nome</name>
+  <cpf>Cpf</cpf>
+  <rg>Rg</rg>
+  <adress>Endereço</adress>
+  <city>Cidade</city>
+  <street>Rua</street>
+  <cep>CEP</cep>
+  <complement>Complemento</complement>
+  <phone>Telefone</phone>
+  <office>Cargo</office>
+  <access_level>Nível de Acesso</access_level>
+  <birthday>Data de Aniversário</birthday>
+  <email>Email</email>
+  <percent>Porcentagem</percent>
+  <user_type>Tipo de Usuário</user_type>
+
+</user>

@@ -1,0 +1,15 @@
+<payment>
+  <payments>Pagamentos</payments>
+  <add_payment>Adicionar Pagamento</add_payment>
+  <provider>Fornecedor</provider>
+  <value>Valor</value>
+  <due_date>Data de Vencimento</due_date>
+  <edit>Editar</edit>
+  <details>Detalhes</details>
+  <nfe>Nota Fiscal</nfe>
+  <product>Produtos</product>
+  <qtd>Qtd</qtd>
+  <total_val>Val. Total</total_val>
+  <new_payment>Novo Pagamento</new_payment>
+  <quantity>Quantidade</quantity>
+</payment>

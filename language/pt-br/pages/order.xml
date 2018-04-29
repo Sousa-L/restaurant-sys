@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+  <orders>Pedidos</orders>
+  <search>Busque um pedido, mesa ou status de pedido...</search>
+  <product_name>Nome do Produto</product_name>
+  <qtd>Quantidade</qtd>
+  <table>Mesa</table>
+  <status>Status</status>
+  <total_value>Valor Total</total_value>
+  <details>Detalhes</details>
+  <complements>Complementos</complements>
+  <order_status>Status do Pedido</order_status>
+  <add_order>Adicionar Pedido</add_order>
+  <price>Preço</price>
+  <name>Nome</name>
+  <add_complements>Adicionar Complemento</add_complements>
+  <del_complements>Excluir Complemento</del_complements>
+  <save>Salvar</save>
+  <cancel>Cancelar</cancel>
+  <generate_nfe>Gerar Nota Fiscal</generate_nfe>
+  <sell_value>Valor de Venda</sell_value>
+  <buy_value>Valor de Compra</buy_value>
+  <profit>Lucro</profit>
+  <total_profit>Lucro Total</total_profit>
+  <options>Opções</options>
+  <stock>Estoque</stock>
+  <unity_price>Preço Unitário</unity_price>
+  <close_table>Fechar Mesa</close_table>
+  <open_table>Abrir Mesa</open_table>
+</order>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<providers>
+   <providers_list>Lista de Fornecedores</providers_list>
+   <provider_name>Nome</provider_name>
+   <provider_adress>Endereço</provider_adress>
+   <provider_phone>Telefone</provider_phone>
+   <provider_cnpj>CNPJ</provider_cnpj>
+   <edit_provider>Editar</edit_provider>
+   <new_provider>Novo Fornecedor</new_provider>
+   <remove_provider>Excluir</remove_provider>
+   <save>Salvar</save>
+   <cancel>Cancelar</cancel>
+</providers>

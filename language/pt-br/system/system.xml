@@ -1,0 +1,7 @@
+<system>
+  <error>Erro:</error>
+  <sql_sucess_update>Registro atualizado com sucesso</sql_sucess_update>
+  <sql_error_update>Erro na atualização do registro: </sql_error_update>
+  <error_connection>Falha na conexão</error_connection>
+  <error_login>Nome de Usuário ou Senha incorretos</error_login>
+</system>

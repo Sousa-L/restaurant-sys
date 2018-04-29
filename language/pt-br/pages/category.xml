@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+   <category_list>Lista de Categorias</category_list>
+   <category_name>Nome da Categoria</category_name>
+   <remove_category>Excluir</remove_category>
+   <edit_category>Editar</edit_category>
+   <new_category>Nova Categoria</new_category>
+   <save>Salvar</save>
+   <cancel>Cancelar</cancel>
+</category>
